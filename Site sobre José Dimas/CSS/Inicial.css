@@ -107,7 +107,8 @@ footer {
     animation-duration: 1s;
     animation-name: AumentarBlocos;
     box-shadow: 2px 2px 10px #07dd07;
-    background-color: #343232}
+    background-color: #343232
+}
 
 .Imagens:hover {
     animation-iteration-count: initial;
